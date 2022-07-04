@@ -9,7 +9,7 @@ export default function Skills(props) {
 
    return(
       <div className="absolute w-full">
-         <div className="container-skills">
+         <div className="container-skills p-5">
             <h2 className="text-center text-4xl p-2">{props.header}</h2>
             <MainSkills />
             <SecondarySkillsSection />
