@@ -6,9 +6,10 @@ export default function Blog(props) {
    const articles = [
       { category:"react", description:"The useState Hook", link:"https://codingandbeers.com/usestate-hook-in-react/", icon:"fab fa-2x fa-react"},
       { category:"react", description:"set up a react project with create-react-app", link:"https://codingandbeers.com/create-react-app/", icon:"fab fa-2x fa-react"},
+      { category:"react", description:"Array Destructuring in Javascript", link:"https://codingandbeers.com/destructuring-in-javascript/", icon:"fab fa-2x fa-react"},
       { category:"css", description:"how to center a div with flexbox", link:"https://codingandbeers.com/flexbox-center-a-div/",icon:"fab fa-2x fa-css3-alt"}
    ]
-
+   console.log()
    return (
      <div className="absolute w-full">
         <div className="text-center blog-container">
