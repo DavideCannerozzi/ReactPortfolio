@@ -17,7 +17,7 @@
 
 /************ Animation Icons **************/
 
-@keyframes swing{
+/* keyframes swing{
    50%{ transform:rotate(15deg) translateY(-15%) }
 }
 @keyframes rotation{
@@ -28,6 +28,6 @@
    0% { transform: translate(0%, 0%) scale(1, 0.75); }
    50% { transform: translate(0%, -20%) scale(1, 1.25); }
    100% { transform: translate(0%, 0%) scale(1, 0.75); }
-}
+} */
 
 

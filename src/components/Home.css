@@ -1,10 +1,10 @@
 .home-page{
    background:linear-gradient(#222733,#1D5066);
-   height:90vh
+   height:92vh
 }
 .container-home{
    width:80%;
-   height:70vh;
+   min-height:70vh;
    border-left:10px solid transparent;
    border-right:10px solid white;
    border-top:10px solid transparent;

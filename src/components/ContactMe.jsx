@@ -4,9 +4,9 @@ import './ContactMe.css'
 export default function ContactMe(){
 
    const socialIcons = [
-      { id:1, href:"https://twitter.com/Davide_Code",class:'fab fa-2x fa-twitter twitter' },
-      { id:2, href:"https://github.com/DavideCannerozzi", class:'fab fa-2x fa-github github ml-8' },
-      { id:3, href:"https://www.xing.com/profile/Davide_Cannerozzi2/cv", class:'fab fa-2x fa-xing ml-8'}
+      { id:1, href:"https://github.com/DavideCannerozzi", class:'fab fa-2x fa-github github ml-8' },
+      { id:2, href:"https://www.xing.com/profile/Davide_Cannerozzi2/cv", class:'fab fa-2x fa-xing ml-8'},
+      { id:3, href:"https://www.linkedin.com/in/davide-cannerozzi-developer/", class:"fab fa-2x fa-linkedin-in ml-8"}
    ]
       return(
       <div className="md:text-left text-center md:flex mt-8">
